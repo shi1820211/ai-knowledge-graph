@@ -1,0 +1,434 @@
+[
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method",
+    "object": "elisa method",
+    "chunk": 1
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method",
+    "object": "clia method",
+    "chunk": 1
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method",
+    "object": "immunofiltration assay",
+    "chunk": 1
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method",
+    "object": "neutralization test",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "uses",
+    "object": "double antibody sandwich technique",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "includes reagent",
+    "object": "microplate coated with anti-hbs",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "includes reagent",
+    "object": "enzyme-labeled antibody",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "includes reagent",
+    "object": "enzyme substrate solution",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "uses",
+    "object": "sop",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "has positive threshold",
+    "object": "s/co < 1.0",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "has negative threshold",
+    "object": "s/co < 1.0",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "uses",
+    "object": "double antibody sandwich technique",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "includes reagent",
+    "object": "pre-coated solid phase",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "includes reagent",
+    "object": "calibrator",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "includes reagent",
+    "object": "chemical luminescent substrate",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "uses",
+    "object": "sop",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "has quantitative range",
+    "object": "0.05-0.2 iu/ml",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "has positive threshold",
+    "object": "s/co < 1.0",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "has negative threshold",
+    "object": "s/co < 0.9",
+    "chunk": 1
+  },
+  {
+    "subject": "clia method",
+    "predicate": "has indeterminate range",
+    "object": "s/co 0.9-1.0",
+    "chunk": 1
+  },
+  {
+    "subject": "immunofiltration assay",
+    "predicate": "uses",
+    "object": "double antibody sandwich technique",
+    "chunk": 1
+  },
+  {
+    "subject": "immunofiltration assay",
+    "predicate": "includes reagent",
+    "object": "pre-coated test strip",
+    "chunk": 1
+  },
+  {
+    "subject": "immunofiltration assay",
+    "predicate": "uses",
+    "object": "sop",
+    "chunk": 1
+  },
+  {
+    "subject": "immunofiltration assay",
+    "predicate": "has positive result",
+    "object": "only control line visible",
+    "chunk": 1
+  },
+  {
+    "subject": "immunofiltration assay",
+    "predicate": "has negative result",
+    "object": "only control line visible",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses",
+    "object": "competitive inhibition principle",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "includes reagent",
+    "object": "specific hbsab",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "includes reagent",
+    "object": "control reagent",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses",
+    "object": "elisa method",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "has positive threshold",
+    "object": "inhibition rate < 50%",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "has negative threshold",
+    "object": "inhibition rate < 50%",
+    "chunk": 1
+  },
+  {
+    "subject": "pre-coated solid phase",
+    "predicate": "used in same",
+    "object": "pre-coated test strip",
+    "inferred": true
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "alternative method",
+    "object": "clia method",
+    "inferred": true
+  },
+  {
+    "subject": "double antibody sandwich technique",
+    "predicate": "uses",
+    "object": "enzyme-labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "competitive inhibition principle",
+    "predicate": "has threshold",
+    "object": "inhibition rate < 50%",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "predicate": "related to",
+    "object": "chemical luminescent substrate",
+    "inferred": true
+  },
+  {
+    "subject": "only control line visible",
+    "predicate": "indicates",
+    "object": "control reagent",
+    "inferred": true
+  },
+  {
+    "subject": "s/co < 1.0",
+    "predicate": "higher threshold than",
+    "object": "s/co < 0.9",
+    "inferred": true
+  },
+  {
+    "subject": "s/co < 1.0",
+    "predicate": "includes range",
+    "object": "s/co 0.9-1.0",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "sop",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "enzyme substrate solution",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "s/co < 1.0",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "double antibody sandwich technique",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "microplate coated with anti-hbs",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "enzyme-labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "0.05-0.2 iu/ml",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "pre-coated solid phase",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "calibrator",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "s/co < 0.9",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "s/co 0.9-1.0",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "chemical luminescent substrate",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "control reagent",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "competitive inhibition principle",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "specific hbsab",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "inhibition rate < 50%",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "only control line visible",
+    "inferred": true
+  },
+  {
+    "subject": "hbsag detection methods",
+    "predicate": "has method via",
+    "object": "pre-coated test strip",
+    "inferred": true
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "indirectly uses",
+    "object": "sop",
+    "inferred": true
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses via elisa",
+    "object": "enzyme substrate solution",
+    "inferred": true
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses via elisa",
+    "object": "s/co < 1.0",
+    "inferred": true
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "indirectly uses",
+    "object": "double antibody sandwich technique",
+    "inferred": true
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses via elisa",
+    "object": "microplate coated with anti-hbs",
+    "inferred": true
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses via elisa",
+    "object": "enzyme-labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "pre-coated solid phase",
+    "predicate": "related to",
+    "object": "pre-coated test strip",
+    "inferred": true
+  },
+  {
+    "subject": "pre-coated test strip",
+    "predicate": "related to",
+    "object": "neutralization test",
+    "inferred": true
+  },
+  {
+    "subject": "elisa method",
+    "predicate": "related to",
+    "object": "clia method",
+    "inferred": true
+  },
+  {
+    "subject": "double antibody sandwich technique",
+    "predicate": "related to",
+    "object": "enzyme-labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "competitive inhibition principle",
+    "predicate": "relates to",
+    "object": "inhibition rate < 50%",
+    "inferred": true
+  },
+  {
+    "subject": "only control line visible",
+    "predicate": "relates to",
+    "object": "control reagent",
+    "inferred": true
+  },
+  {
+    "subject": "s/co < 1.0",
+    "predicate": "related to",
+    "object": "s/co < 0.9",
+    "inferred": true
+  },
+  {
+    "subject": "s/co < 1.0",
+    "predicate": "related to",
+    "object": "s/co 0.9-1.0",
+    "inferred": true
+  },
+  {
+    "subject": "s/co < 0.9",
+    "predicate": "related to",
+    "object": "s/co 0.9-1.0",
+    "inferred": true
+  }
+]

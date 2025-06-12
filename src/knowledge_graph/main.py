@@ -5,6 +5,7 @@ import argparse
 import json
 import os
 import sys
+import time
 
 # Add the parent directory to the Python path for imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
@@ -42,7 +43,12 @@ def process_with_llm(config, input_text, debug=False):
     
     # Process with LLM
     metadata = {}
-    response = call_llm(model, user_prompt, api_key, system_prompt, max_tokens, temperature, base_url)
+    start_time = time.time()
+    response = call_llm(config,model, user_prompt, api_key, system_prompt, max_tokens, temperature, base_url)
+    end_time = time.time() 
+    elapsed_time = end_time - start_time
+    
+    print(f"=== LLM 处理耗时: {elapsed_time:.2f} 秒 ===")
     
     # Print raw response only if debug mode is on
     if debug:

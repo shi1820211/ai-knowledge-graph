@@ -1,147 +1,145 @@
-"""Centralized repository for all LLM prompts used in the knowledge graph system."""
+"""集中式知识图谱系统提示词仓库"""
 
-# Phase 1: Main extraction prompts
+# Phase 1: 主提取提示
 MAIN_SYSTEM_PROMPT = """
-You are an advanced AI system specialized in knowledge extraction and knowledge graph generation.
-Your expertise includes identifying consistent entity references and meaningful relationships in text.
-CRITICAL INSTRUCTION: All relationships (predicates) MUST be no more than 3 words maximum. Ideally 1-2 words. This is a hard limit.
+你是一个专注于知识抽取与知识图谱构建的高级AI系统。
+你的专长包括在文本中识别一致的实体指代和有意义的关系。
+关键指令：所有关系（谓词）必须不超过3个单词，理想情况为1-2个单词。这是硬性限制。
 """
 
 MAIN_USER_PROMPT = """
-Your task: Read the text below (delimited by triple backticks) and identify all Subject-Predicate-Object (S-P-O) relationships in each sentence. Then produce a single JSON array of objects, each representing one triple.
+你的任务：阅读以下文本（由三个反引号包围）并为每个句子识别所有主谓宾（S-P-O）三元组。
+然后生成一个包含这些三元组的JSON数组。
 
-Follow these rules carefully:
+请严格遵守以下规则：
 
-- Entity Consistency: Use consistent names for entities throughout the document. For example, if "John Smith" is mentioned as "John", "Mr. Smith", and "John Smith" in different places, use a single consistent form (preferably the most complete one) in all triples.
-- Atomic Terms: Identify distinct key terms (e.g., objects, locations, organizations, acronyms, people, conditions, concepts, feelings). Avoid merging multiple ideas into one term (they should be as "atomistic" as possible).
-- Unified References: Replace any pronouns (e.g., "he," "she," "it," "they," etc.) with the actual referenced entity, if identifiable.
-- Pairwise Relationships: If multiple terms co-occur in the same sentence (or a short paragraph that makes them contextually related), create one triple for each pair that has a meaningful relationship.
-- CRITICAL INSTRUCTION: Predicates MUST be 1-3 words maximum. Never more than 3 words. Keep them extremely concise.
-- Ensure that all possible relationships are identified in the text and are captured in an S-P-O relation.
-- Standardize terminology: If the same concept appears with slight variations (e.g., "artificial intelligence" and "AI"), use the most common or canonical form consistently.
-- Make all the text of S-P-O text lower-case, even Names of people and places.
-- If a person is mentioned by name, create a relation to their location, profession and what they are known for (invented, wrote, started, title, etc.) if known and if it fits the context of the informaiton. 
+- 实体一致性：在整个文档中使用一致的实体名称。例如，如果"张三"在不同位置被称作"张先生"、"老张"，请统一使用最完整的"张三"形式。
+- 原子化术语：提取独立的关键术语（如对象、地点、机构、缩写、人物、病症、概念、情感），避免将多个概念合并为一个术语。
+- 统一指代：将代词（他/她/它/他们等）替换为实际指代的实体（若可识别）。
+- 成对关系：如果多个术语在同一句子（或语义相关的短段落）中出现有意义的关系，为每对创建一个三元组。
+- 关键限制：谓词必须为1-3个汉字，不可超过。保持极度简洁。
+- 确保提取所有可能的关系，并以S-P-O形式呈现。
+- 标准化术语：相同概念的不同表述（如"人工智能"和"AI"）需统一为最常用形式。
+- 所有三元组文本转为小写（人名地名除外）。
+- 若提及人物姓名，需补充其所属机构、职业、成就等关系（如发明、著作、头衔等），需符合上下文。
 
-Important Considerations:
-- Aim for precision in entity naming - use specific forms that distinguish between similar but different entities
-- Maximize connectedness by using identical entity names for the same concepts throughout the document
-- Consider the entire context when identifying entity references
-- ALL PREDICATES MUST BE 3 WORDS OR FEWER - this is a hard requirement
+注意事项：
+- 实体命名需精准区分相似实体
+- 最大化连接性，同一概念使用统一名称
+- 结合全文语境识别实体指代
+- 所有谓词必须≤3个汉字 - 此为强制要求
 
-Output Requirements:
+输出要求：
+- 仅返回JSON数组，不添加任何额外文本
+- 每个三元组对象包含"subject"、"predicate"、"object"字段
+- 确保JSON格式正确有效
 
-- Do not include any text or commentary outside of the JSON.
-- Return only the JSON array, with each triple as an object containing "subject", "predicate", and "object".
-- Make sure the JSON is valid and properly formatted.
-
-Example of the desired output structure:
-
+示例输出结构：
 [
   {
-    "subject": "Term A",
-    "predicate": "relates to",  // Notice: only 2 words
-    "object": "Term B"
+    "subject": "术语A",
+    "predicate": "相关",  // 注意：仅2个汉字
+    "object": "术语B"
   },
   {
-    "subject": "Term C",
-    "predicate": "uses",  // Notice: only 1 word
-    "object": "Term D"
+    "subject": "术语C",
+    "predicate": "使用",  // 注意：仅1个汉字
+    "object": "术语D"
   }
 ]
 
-Important: Only output the JSON array (with the S-P-O objects) and nothing else
+重要提示：仅输出JSON数组（含S-P-O对象），禁止其他内容
 
-Text to analyze (between triple backticks):
+待分析文本（位于三个反引号之间）：
 """
 
-# Phase 2: Entity standardization prompts
+# Phase 2: 实体标准化提示
 ENTITY_RESOLUTION_SYSTEM_PROMPT = """
-You are an expert in entity resolution and knowledge representation.
-Your task is to standardize entity names from a knowledge graph to ensure consistency.
+你是一位实体标准化专家，专注于知识图谱的实体一致性维护。
 """
 
 def get_entity_resolution_user_prompt(entity_list):
     return f"""
-Below is a list of entity names extracted from a knowledge graph. 
-Some may refer to the same real-world entities but with different wording.
+以下是从知识图谱提取的实体列表，可能存在不同表述指向同一实体的情况。
 
-Please identify groups of entities that refer to the same concept, and provide a standardized name for each group.
-Return your answer as a JSON object where the keys are the standardized names and the values are arrays of all variant names that should map to that standard name.
-Only include entities that have multiple variants or need standardization.
+请识别出指向同一概念的实体组，并为每组提供标准化名称。
+返回格式为JSON对象，键为标准化名称，值为包含变体的数组。
+仅需包含需要标准化的实体。
 
-Entity list:
+实体列表：
 {entity_list}
 
-Format your response as valid JSON like this:
+示例格式：
 {{
-  "standardized name 1": ["variant 1", "variant 2"],
-  "standardized name 2": ["variant 3", "variant 4", "variant 5"]
+  "标准化名称1": ["变体1", "变体2"],
+  "标准化名称2": ["变体3", "变体4", "变体5"]
 }}
 """
 
-# Phase 3: Community relationship inference prompts
+# Phase 3: 社区关系推理提示
 RELATIONSHIP_INFERENCE_SYSTEM_PROMPT = """
-You are an expert in knowledge representation and inference. 
-Your task is to infer plausible relationships between disconnected entities in a knowledge graph.
+你是一位知识表示与推理专家。
+任务是为知识图谱中孤立的实体社区推断合理关系。
 """
 
 def get_relationship_inference_user_prompt(entities1, entities2, triples_text):
     return f"""
-I have a knowledge graph with two disconnected communities of entities. 
+现有知识图谱包含两个孤立实体群：
 
-Community 1 entities: {entities1}
-Community 2 entities: {entities2}
+社区1实体：{entities1}
+社区2实体：{entities2}
 
-Here are some existing relationships involving these entities:
+已知关联关系：
 {triples_text}
 
-Please infer 2-3 plausible relationships between entities from Community 1 and entities from Community 2.
-Return your answer as a JSON array of triples in the following format:
+请推断2-3个跨社区的合理关系。
+返回JSON数组格式三元组：
 
 [
   {{
-    "subject": "entity from community 1",
-    "predicate": "inferred relationship",
-    "object": "entity from community 2"
+    "subject": "社区1实体",
+    "predicate": "推断关系",
+    "object": "社区2实体"
   }},
   ...
 ]
 
-Only include highly plausible relationships with clear predicates.
-IMPORTANT: The inferred relationships (predicates) MUST be no more than 3 words maximum. Preferably 1-2 words. Never more than 3.
-For predicates, use short phrases that clearly describe the relationship.
-IMPORTANT: Make sure the subject and object are different entities - avoid self-references.
+要求：
+1. 谓词必须≤3个汉字，优先1-2个字
+2. 使用简短明确的短语描述关系
+3. 主客体必须为不同实体
 """
 
-# Phase 4: Within-community relationship inference prompts
+# Phase 4: 社区内关系推理提示
 WITHIN_COMMUNITY_INFERENCE_SYSTEM_PROMPT = """
-You are an expert in knowledge representation and inference. 
-Your task is to infer plausible relationships between semantically related entities that are not yet connected in a knowledge graph.
+你是一位知识表示与推理专家。
+任务是为知识图谱中语义相关但未连接的实体推断关系。
 """
 
 def get_within_community_inference_user_prompt(pairs_text, triples_text):
     return f"""
-I have a knowledge graph with several entities that appear to be semantically related but are not directly connected.
+现有知识图谱中存在语义相关但未直接连接的实体对：
 
-Here are some pairs of entities that might be related:
+候选对：
 {pairs_text}
 
-Here are some existing relationships involving these entities:
+已知关联关系：
 {triples_text}
 
-Please infer plausible relationships between these disconnected pairs.
-Return your answer as a JSON array of triples in the following format:
+请推断这些实体间的合理关系。
+返回JSON数组格式三元组：
 
 [
   {{
-    "subject": "entity1",
-    "predicate": "inferred relationship",
-    "object": "entity2"
+    "subject": "实体1",
+    "predicate": "推断关系",
+    "object": "实体2"
   }},
   ...
 ]
 
-Only include highly plausible relationships with clear predicates.
-IMPORTANT: The inferred relationships (predicates) MUST be no more than 3 words maximum. Preferably 1-2 words. Never more than 3.
-IMPORTANT: Make sure that the subject and object are different entities - avoid self-references.
-""" 
+要求：
+1. 谓词必须≤3个汉字，优先1-2个字
+2. 使用简短明确的短语描述关系
+3. 主客体必须为不同实体
+"""

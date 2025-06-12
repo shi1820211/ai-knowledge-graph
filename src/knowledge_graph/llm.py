@@ -3,7 +3,7 @@ import requests
 import json
 import re
 
-def call_llm(model, user_prompt, api_key, system_prompt=None, max_tokens=1000, temperature=0.2, base_url=None) -> str:
+def call_llm(config,model, user_prompt, api_key, system_prompt=None, max_tokens=1000, temperature=0.2, base_url=None,) -> str:
     """
     Call the language model API.
     
@@ -21,6 +21,7 @@ def call_llm(model, user_prompt, api_key, system_prompt=None, max_tokens=1000, t
     """
     headers = {
         'Content-Type': 'application/json',
+        'Accept': 'application/json',
         'Authorization': f"Bearer {api_key}"
     }
     
@@ -46,8 +47,17 @@ def call_llm(model, user_prompt, api_key, system_prompt=None, max_tokens=1000, t
         'model': model,
         'messages': messages,
         'max_tokens': max_tokens,
-        'temperature': temperature
+        'temperature': temperature,
+        'stop': None
     }
+
+
+    if config.get("disable_think", False):
+        # 对于支持think控制的模型，添加特定指令
+        payload["messages"][0]["content"] = (
+            "请直接回答问题，不要进行任何思考或解释过程。"
+            + "\n\n" + user_prompt
+        )
     
     response = requests.post(
         base_url,

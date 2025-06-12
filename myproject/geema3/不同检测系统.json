@@ -1,0 +1,596 @@
+[
+  {
+    "subject": "Patient Related",
+    "predicate": "\u63a5\u53d7",
+    "object": "\u4f53\u68c0",
+    "chunk": 1
+  },
+  {
+    "subject": "Laboratory Tests",
+    "predicate": "\u65e0\u5f02\u5e38",
+    "object": "Data Reporting",
+    "chunk": 1
+  },
+  {
+    "subject": "Imaging Studies",
+    "predicate": "\u65e0\u5f02\u5e38",
+    "object": "Data Reporting",
+    "chunk": 1
+  },
+  {
+    "subject": "\u80a0\u955c\u68c0\u67e5",
+    "predicate": "\u63d0\u793a",
+    "object": "Anomalous Findings",
+    "chunk": 1
+  },
+  {
+    "subject": "Anomalous Findings",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u80a0\u905317\u70b9",
+    "chunk": 1
+  },
+  {
+    "subject": "Anomalous Findings",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u80a0\u905320\u70b9",
+    "chunk": 1
+  },
+  {
+    "subject": "\u8840\u6e05\u80bf\u7624\u6807\u5fd7\u7269",
+    "predicate": "\u65e0\u5f02\u5e38",
+    "object": "Data Reporting",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "5.50 ng/ml",
+    "chunk": 1
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u4e3a",
+    "object": "\u4e19\u516c\u53f8",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728",
+    "object": "\u5b89\u533b\u9ad8\u65b0\u533b\u9662",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u8fdb\u884c",
+    "object": "Surgical Procedures",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "24.00 ng/ml",
+    "chunk": 1
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u4e3a",
+    "object": "\u7532\u516c\u53f8",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u8fdb\u884c",
+    "object": "Pathological Findings",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u590d\u67e5",
+    "object": "CEA",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u8fdb\u884c",
+    "object": "Sample Preparation",
+    "chunk": 1
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8",
+    "object": "CEA",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd",
+    "object": "CEA",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u6000\u7591",
+    "object": "Pathological Findings",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5207\u9664",
+    "object": "Anomalous Findings",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5df2",
+    "object": "1\u6708\u4f59",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u7535\u8bdd",
+    "object": "\u544a\u77e5",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728",
+    "object": "\u5e73\u5b89\u533b\u9662",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u8fdb\u884c",
+    "object": "\u4f53\u68c0",
+    "chunk": 1
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u4e3a",
+    "object": "\u4e01\u516c\u53f8",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u590d\u67e5",
+    "object": "Laboratory Tests",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "4.36 ng/ml",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5efa\u8bae",
+    "object": "Clinical Follow-up",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u518d\u6b21",
+    "object": "Clinical Follow-up",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "18.02",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "2.77",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u544a\u77e5",
+    "object": "Result Variation",
+    "chunk": 1
+  },
+  {
+    "subject": "\u4e13\u5bb6",
+    "predicate": "\u8ff0\u8bc4",
+    "object": "Sample Preparation",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6837\u672c",
+    "predicate": "\u5dee\u5f02",
+    "object": "\u65e0\u51e0",
+    "chunk": 1
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u68c0\u6d4b\u7cfb\u7edf",
+    "object": "\u504f\u9ad8",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3",
+    "object": "CEA",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728",
+    "object": "Detection Systems & Instrumentation",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "15.56",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u503c\u4e3a",
+    "object": "3.11",
+    "chunk": 1
+  },
+  {
+    "subject": "\u4e13\u5bb6",
+    "predicate": "\u5f3a\u8c03",
+    "object": "\u7ed3\u5408\u4e0d\u540c\u5382\u5bb6\u8bbe\u5907\u9879\u76ee\u68c0\u6d4b\u539f\u7406\uff0c\u60a3\u8005\u75c5\u53f2\uff0c\u75c5\u7406\u751f\u7406\u72b6\u6001\uff0c\u5b9e\u9a8c\u5ba4\u8d28\u63a7\u7b49\u56e0\u7d20\u8fdb\u884c\u7efc\u5408\u5206\u6790\u5224\u65ad",
+    "chunk": 1
+  },
+  {
+    "subject": "CEA",
+    "predicate": "\u5dee\u5f02",
+    "object": "\u4e0e\u8bd5\u5242\u6297\u4f53\u76f8\u5173",
+    "chunk": 1
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728",
+    "object": "Result Variation",
+    "chunk": 1
+  },
+  {
+    "subject": "Biological Markers & Analysis",
+    "predicate": "\u8868\u8fbe",
+    "object": "nca-2",
+    "chunk": 1
+  },
+  {
+    "subject": "Pathological Findings",
+    "predicate": "detects markers",
+    "object": "Biological Markers & Analysis",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "analyzes markers",
+    "object": "Biological Markers & Analysis",
+    "inferred": true
+  },
+  {
+    "subject": "\u504f\u9ad8",
+    "predicate": "measures markers",
+    "object": "Biological Markers & Analysis",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "detect variation",
+    "object": "\u6837\u672c",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "use sample",
+    "object": "\u504f\u9ad8",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "analyze sample",
+    "object": "\u65e0\u51e0",
+    "inferred": true
+  },
+  {
+    "subject": "Biological Markers & Analysis",
+    "predicate": "measure on",
+    "object": "\u6837\u672c",
+    "inferred": true
+  },
+  {
+    "subject": "\u6837\u672c",
+    "predicate": "show difference",
+    "object": "\u65e0\u51e0",
+    "inferred": true
+  },
+  {
+    "subject": "CEA \u503c\u4e3a 5.50 ng/ml",
+    "predicate": "indicates",
+    "object": "Pathological Findings",
+    "inferred": true
+  },
+  {
+    "subject": "CEA \u503c\u4e3a 24.00 ng/ml",
+    "predicate": "indicates",
+    "object": "Pathological Findings",
+    "inferred": true
+  },
+  {
+    "subject": "CEA \u503c\u4e3a 5.50 ng/ml",
+    "predicate": "related to",
+    "object": "24.00 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "CEA \u503c\u4e3a 5.50 ng/ml",
+    "predicate": "related to",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "CEA \u503c\u4e3a 24.00 ng/ml",
+    "predicate": "related to",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "\u80a0\u955c\u68c0\u67e5 \u63d0\u793a Anomalous Findings",
+    "predicate": "reveals",
+    "object": "Pathological Findings",
+    "inferred": true
+  },
+  {
+    "subject": "Anomalous Findings \u4f4d\u4e8e \u80a0\u905317\u70b9",
+    "predicate": "localized in",
+    "object": "Pathological Findings",
+    "inferred": true
+  },
+  {
+    "subject": "Anomalous Findings \u4f4d\u4e8e \u80a0\u905320\u70b9",
+    "predicate": "localized in",
+    "object": "Pathological Findings",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related \u8fdb\u884c Pathological Findings",
+    "predicate": "performs",
+    "object": "Anomalous Findings",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related \u6000\u7591 Pathological Findings",
+    "predicate": "suspects",
+    "object": "Anomalous Findings",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related \u5207\u9664 Anomalous Findings",
+    "predicate": "resects",
+    "object": "Anomalous Findings",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728 via Detection",
+    "object": "\u4e01\u516c\u53f8",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728 via Detection",
+    "object": "\u504f\u9ad8",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728 via Detection",
+    "object": "\u7532\u516c\u53f8",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5728 via Detection",
+    "object": "\u4e19\u516c\u53f8",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5207\u9664 via Anomalous",
+    "object": "\u80a0\u905320\u70b9",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u5207\u9664 via Anomalous",
+    "object": "\u80a0\u905317\u70b9",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "2.77",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "18.02",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "\u4e0e\u8bd5\u5242\u6297\u4f53\u76f8\u5173",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "24.00 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "3.11",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "5.50 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u603b\u7ed3 via CEA",
+    "object": "15.56",
+    "inferred": true
+  },
+  {
+    "subject": "Patient Related",
+    "predicate": "\u590d\u67e5 via Laboratory",
+    "object": "Data Reporting",
+    "inferred": true
+  },
+  {
+    "subject": "\u80a0\u955c\u68c0\u67e5",
+    "predicate": "\u63d0\u793a via Anomalous",
+    "object": "\u80a0\u905320\u70b9",
+    "inferred": true
+  },
+  {
+    "subject": "\u80a0\u955c\u68c0\u67e5",
+    "predicate": "\u63d0\u793a via Anomalous",
+    "object": "\u80a0\u905317\u70b9",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "2.77",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "18.02",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "\u4e0e\u8bd5\u5242\u6297\u4f53\u76f8\u5173",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "24.00 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "3.11",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "5.50 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "Detection Systems & Instrumentation",
+    "predicate": "\u504f\u9ad8 via CEA",
+    "object": "15.56",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "2.77",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "18.02",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "\u4e0e\u8bd5\u5242\u6297\u4f53\u76f8\u5173",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "24.00 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "3.11",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "5.50 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "\u5e72\u6270\u7269\u8d28",
+    "predicate": "\u5f71\u54cd via CEA",
+    "object": "15.56",
+    "inferred": true
+  },
+  {
+    "subject": "Pathological Findings",
+    "predicate": "related to",
+    "object": "Anomalous Findings",
+    "inferred": true
+  },
+  {
+    "subject": "5.50 ng/ml",
+    "predicate": "related to",
+    "object": "24.00 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "5.50 ng/ml",
+    "predicate": "related to",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  },
+  {
+    "subject": "24.00 ng/ml",
+    "predicate": "related to",
+    "object": "4.36 ng/ml",
+    "inferred": true
+  }
+]

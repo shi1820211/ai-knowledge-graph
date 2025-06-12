@@ -1,0 +1,5750 @@
+[
+  {
+    "subject": "patient",
+    "predicate": "underwent surgery",
+    "object": "colon polyp removal",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "15.56 ng/ml using company a instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had pathology",
+    "object": "colonic smooth muscle adenoma",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "2.77 ng/ml using company c instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "3.11 ng/ml using company c instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "24.00 ng/ml using company a instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "allergic rhinitis",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "asthma",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "company d instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "19.24 ng/ml using company a instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "4.40 ng/ml using company c instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "18.02 ng/ml using company a instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "5.50 ng/ml using company d instrument",
+    "chunk": 1
+  },
+  {
+    "subject": "company a instrument",
+    "predicate": "detects cea",
+    "object": "cross-reacts with nca-2",
+    "chunk": 1
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "detects cea",
+    "object": "cross-reacts with nca-2",
+    "chunk": 1
+  },
+  {
+    "subject": "company a instrument",
+    "predicate": "shows discrepancy",
+    "object": "high cea levels compared to company c",
+    "chunk": 1
+  },
+  {
+    "subject": "company a instrument",
+    "predicate": "used for",
+    "object": "cea testing",
+    "chunk": 1
+  },
+  {
+    "subject": "company c instrument",
+    "predicate": "used for",
+    "object": "cea testing",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "suspected to be",
+    "object": "nca-2 high expresser",
+    "chunk": 1
+  },
+  {
+    "subject": "cea discrepancy",
+    "predicate": "caused by",
+    "object": "antibody targeting cea and nca-2",
+    "chunk": 1
+  },
+  {
+    "subject": "company a instrument",
+    "predicate": "has reagent",
+    "object": "antibody targeting cea",
+    "chunk": 1
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "has reagent",
+    "object": "antibody targeting cea",
+    "chunk": 1
+  },
+  {
+    "subject": "company c instrument",
+    "predicate": "has reagent",
+    "object": "antibody targeting cea",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "recommended to",
+    "object": "regular cea monitoring",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has benign tumor",
+    "object": "colonic smooth muscle adenoma",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has tumor marker",
+    "object": "elevated cea levels",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has no evidence",
+    "object": "malignant tumor",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "benign tumor removal",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "normal abdominal ultrasound",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "normal chest ct",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "normal blood routine",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "normal liver kidney function",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "normal tumor markers",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "normal colonoscopy except for polyps",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of metastasis",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of recurrence",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer development",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of new tumors",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer metastasis",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of malignant transformation",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of systemic cancer",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of colon cancer",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancerous changes",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer recurrence",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in body",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of gastrointestinal cancer",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any cell type",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any organ system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer spread",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in colon",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer progression",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any tissue",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any organ",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of digestive system cancer",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any biological system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any anatomical system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any functional system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any structural system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in digestive system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any physiological system",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any anatomical process",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any functional process",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any structural process",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any physiological process",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any biological activity",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any biological function",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any functional activity",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any anatomical function",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any physiological function",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any biological process",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any structural activity",
+    "chunk": 1
+  },
+  {
+    "subject": "patient",
+    "predicate": "has medical history",
+    "object": "no evidence of cancer in any structural function",
+    "chunk": 1
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "has reagent",
+    "object": "antibody targeting cea and nca-2",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "is due to",
+    "object": "cea discrepancy",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "shows discrepancy",
+    "object": "company c",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "used for",
+    "object": "cea testing",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "shows discrepancy",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "antibody targeting cea",
+    "inferred": true
+  },
+  {
+    "subject": "patient",
+    "predicate": "had cea level",
+    "object": "cross-reacts with nca-2",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "relates to",
+    "object": "company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "19.24 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "18.02 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "3.11 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "4.40 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "2.77 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company d instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any organ system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of colon cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer progression",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of colon cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer progression",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any organ system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer progression",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "relates to",
+    "object": "colon polyp removal",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of colon cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "elevated cea levels",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "19.24 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "18.02 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "3.11 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "4.40 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "2.77 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "relates to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "nca-2 high expresser",
+    "predicate": "relates to",
+    "object": "high cea levels compared to company c",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "high cea levels compared to company c",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer progression",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer progression",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer progression",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer progression",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "relates to",
+    "object": "malignant tumor",
+    "inferred": true
+  },
+  {
+    "subject": "malignant tumor",
+    "predicate": "related to",
+    "object": "benign tumor removal",
+    "inferred": true
+  },
+  {
+    "subject": "malignant tumor",
+    "predicate": "related to",
+    "object": "normal tumor markers",
+    "inferred": true
+  },
+  {
+    "subject": "normal abdominal ultrasound",
+    "predicate": "related to",
+    "object": "normal colonoscopy except for polyps",
+    "inferred": true
+  },
+  {
+    "subject": "normal abdominal ultrasound",
+    "predicate": "related to",
+    "object": "normal chest ct",
+    "inferred": true
+  },
+  {
+    "subject": "normal abdominal ultrasound",
+    "predicate": "related to",
+    "object": "normal tumor markers",
+    "inferred": true
+  },
+  {
+    "subject": "normal abdominal ultrasound",
+    "predicate": "related to",
+    "object": "normal blood routine",
+    "inferred": true
+  },
+  {
+    "subject": "normal abdominal ultrasound",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of malignant transformation",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of malignant transformation",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer recurrence",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer recurrence",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "18.02 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "3.11 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "4.40 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "2.77 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "19.24 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer spread",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "normal colonoscopy except for polyps",
+    "predicate": "related to",
+    "object": "normal chest ct",
+    "inferred": true
+  },
+  {
+    "subject": "normal colonoscopy except for polyps",
+    "predicate": "related to",
+    "object": "normal tumor markers",
+    "inferred": true
+  },
+  {
+    "subject": "normal colonoscopy except for polyps",
+    "predicate": "related to",
+    "object": "normal blood routine",
+    "inferred": true
+  },
+  {
+    "subject": "normal colonoscopy except for polyps",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "3.11 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "4.40 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "2.77 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "18.02 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer development",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer spread",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "4.40 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "2.77 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "3.11 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "benign tumor removal",
+    "predicate": "related to",
+    "object": "normal tumor markers",
+    "inferred": true
+  },
+  {
+    "subject": "benign tumor removal",
+    "predicate": "related to",
+    "object": "colon polyp removal",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any structural activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer development",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in colon",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any structural activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "4.40 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "2.77 ng/ml using company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "4.40 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "4.40 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "4.40 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "4.40 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "4.40 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "antibody targeting cea",
+    "predicate": "related to",
+    "object": "antibody targeting cea and nca-2",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of metastasis",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "relates to",
+    "object": "colon polyp removal",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in colon",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "2.77 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "5.50 ng/ml using company d instrument",
+    "inferred": true
+  },
+  {
+    "subject": "2.77 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "2.77 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "2.77 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "2.77 ng/ml using company c instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in digestive system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of metastasis",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "normal chest ct",
+    "predicate": "related to",
+    "object": "normal tumor markers",
+    "inferred": true
+  },
+  {
+    "subject": "normal chest ct",
+    "predicate": "related to",
+    "object": "normal blood routine",
+    "inferred": true
+  },
+  {
+    "subject": "normal chest ct",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in digestive system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of new tumors",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of new tumors",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "5.50 ng/ml using company d instrument",
+    "predicate": "related to",
+    "object": "company c instrument",
+    "inferred": true
+  },
+  {
+    "subject": "5.50 ng/ml using company d instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "5.50 ng/ml using company d instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "5.50 ng/ml using company d instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancerous changes",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "normal tumor markers",
+    "predicate": "related to",
+    "object": "normal blood routine",
+    "inferred": true
+  },
+  {
+    "subject": "normal tumor markers",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of gastrointestinal cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancerous changes",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of gastrointestinal cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any tissue",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "company c instrument",
+    "predicate": "related to",
+    "object": "company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company c instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company c instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any tissue",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "antibody targeting cea and nca-2",
+    "predicate": "relates to",
+    "object": "nca-2 high expresser",
+    "inferred": true
+  },
+  {
+    "subject": "antibody targeting cea and nca-2",
+    "predicate": "related to",
+    "object": "cross-reacts with nca-2",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any cell type",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional activity",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any cell type",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any physiological system",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional activity",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any anatomical process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any physiological system",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any functional process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any anatomical process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in body",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional process",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional process",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional process",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any functional process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in body",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological process",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in body",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in body",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in body",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in body",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological process",
+    "predicate": "related to",
+    "object": "no evidence of systemic cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological process",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer in any biological process",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "company a instrument",
+    "predicate": "related to",
+    "object": "15.56 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "company a instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "cross-reacts with nca-2",
+    "predicate": "relates to",
+    "object": "nca-2 high expresser",
+    "inferred": true
+  },
+  {
+    "subject": "15.56 ng/ml using company a instrument",
+    "predicate": "related to",
+    "object": "24.00 ng/ml using company a instrument",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of systemic cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of systemic cancer",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of systemic cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "normal blood routine",
+    "predicate": "related to",
+    "object": "normal liver kidney function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer",
+    "predicate": "related to",
+    "object": "no evidence of digestive system cancer",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "no evidence of digestive system cancer",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  },
+  {
+    "subject": "normal liver kidney function",
+    "predicate": "related to",
+    "object": "no evidence of cancer in any biological function",
+    "inferred": true
+  }
+]

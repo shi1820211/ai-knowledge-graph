@@ -1,0 +1,644 @@
+[
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method",
+    "object": "elisa",
+    "chunk": 1
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method",
+    "object": "clia",
+    "chunk": 1
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method",
+    "object": "immunochromatographic assay",
+    "chunk": 1
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method",
+    "object": "neutralization test",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "uses method",
+    "object": "double antibody sandwich",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has reagent",
+    "object": "coated anti-hbs microplate",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has reagent",
+    "object": "enzyme labeled antibody",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has reagent",
+    "object": "enzyme substrate solution",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has reagent",
+    "object": "negative control",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has reagent",
+    "object": "positive control",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has reagent",
+    "object": "concentrated wash solution",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "negative control",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "positive control",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "add sample",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "incubate",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "wash plate",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "enzyme labeled antibody",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "enzyme substrate solution",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "terminate reaction",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "involves step",
+    "object": "read absorbance",
+    "chunk": 1
+  },
+  {
+    "subject": "elisa",
+    "predicate": "has result",
+    "object": "s/co < 1.0",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "uses method",
+    "object": "double antibody sandwich",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "has reagent",
+    "object": "coated antibody solid phase",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "has reagent",
+    "object": "calibration material",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "has reagent",
+    "object": "quality control material",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "has reagent",
+    "object": "add enzyme substrate solution",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "has reagent",
+    "object": "concentrated wash solution",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "involves step",
+    "object": "calibration material",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "involves step",
+    "object": "add sample",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "involves step",
+    "object": "incubate",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "involves step",
+    "object": "read absorbance",
+    "chunk": 1
+  },
+  {
+    "subject": "clia",
+    "predicate": "has result",
+    "object": "calculated value",
+    "chunk": 1
+  },
+  {
+    "subject": "cleia",
+    "predicate": "uses method",
+    "object": "direct chemiluminescent labeling",
+    "chunk": 1
+  },
+  {
+    "subject": "cleia",
+    "predicate": "has method",
+    "object": "direct chemiluminescent labeling",
+    "chunk": 1
+  },
+  {
+    "subject": "eclia",
+    "predicate": "uses method",
+    "object": "electrochemiluminescence",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "uses method",
+    "object": "double antibody sandwich",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "has reagent",
+    "object": "coated anti-hbs microplate",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "has reagent",
+    "object": "enzyme labeled antibody",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "has reagent",
+    "object": "enzyme substrate solution",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "has reagent",
+    "object": "negative control",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "has reagent",
+    "object": "positive control",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "has reagent",
+    "object": "concentrated wash solution",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "involves step",
+    "object": "negative control",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "involves step",
+    "object": "positive control",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "involves step",
+    "object": "add sample",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "involves step",
+    "object": "incubate",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "involves step",
+    "object": "wash plate",
+    "chunk": 1
+  },
+  {
+    "subject": "immunochromatographic assay",
+    "predicate": "involves step",
+    "object": "read absorbance",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "uses method",
+    "object": "antibody competition",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "has reagent",
+    "object": "specific hbsab",
+    "chunk": 1
+  },
+  {
+    "subject": "neutralization test",
+    "predicate": "has result",
+    "object": "inhibition rate calculation",
+    "chunk": 1
+  },
+  {
+    "subject": "cleia",
+    "predicate": "uses method",
+    "object": "clia",
+    "inferred": true
+  },
+  {
+    "subject": "cleia",
+    "predicate": "uses reagent",
+    "object": "calibration material",
+    "inferred": true
+  },
+  {
+    "subject": "cleia",
+    "predicate": "involves step",
+    "object": "add sample",
+    "inferred": true
+  },
+  {
+    "subject": "calibration material",
+    "predicate": "used in",
+    "object": "eclia",
+    "inferred": true
+  },
+  {
+    "subject": "s/co < 1.0",
+    "predicate": "result of",
+    "object": "electrochemiluminescence",
+    "inferred": true
+  },
+  {
+    "subject": "cleia",
+    "predicate": "related technique",
+    "object": "eclia",
+    "inferred": true
+  },
+  {
+    "subject": "cleia",
+    "predicate": "method connection",
+    "object": "electrochemiluminescence",
+    "inferred": true
+  },
+  {
+    "subject": "direct chemiluminescent labeling",
+    "predicate": "method basis",
+    "object": "electrochemiluminescence",
+    "inferred": true
+  },
+  {
+    "subject": "add sample",
+    "object": "add enzyme substrate solution",
+    "predicate": "related to",
+    "inferred": true
+  },
+  {
+    "subject": "calibration material",
+    "object": "quality control material",
+    "predicate": "related to",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "object": "concentrated wash solution",
+    "predicate": "used in same",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "object": "add enzyme substrate solution",
+    "predicate": "uses",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "object": "enzyme labeled antibody",
+    "predicate": "used in same",
+    "inferred": true
+  },
+  {
+    "subject": "antibody competition",
+    "object": "double antibody sandwich",
+    "predicate": "related to",
+    "inferred": true
+  },
+  {
+    "subject": "antibody competition",
+    "object": "coated antibody solid phase",
+    "predicate": "uses",
+    "inferred": true
+  },
+  {
+    "subject": "antibody competition",
+    "object": "enzyme labeled antibody",
+    "predicate": "uses",
+    "inferred": true
+  },
+  {
+    "subject": "coated anti-hbs microplate",
+    "object": "coated antibody solid phase",
+    "predicate": "type of",
+    "inferred": true
+  },
+  {
+    "subject": "wash plate",
+    "object": "concentrated wash solution",
+    "predicate": "uses",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "inhibition rate calculation",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "antibody competition",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "specific hbsab",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "add sample",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "quality control material",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "read absorbance",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "calculated value",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "calibration material",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "incubate",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "concentrated wash solution",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "double antibody sandwich",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "add enzyme substrate solution",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "coated antibody solid phase",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "negative control",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "positive control",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "terminate reaction",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "s/co < 1.0",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "coated anti-hbs microplate",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "enzyme labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "wash plate",
+    "inferred": true
+  },
+  {
+    "subject": "hbssag detection",
+    "predicate": "has method via",
+    "object": "enzyme substrate solution",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "predicate": "related to",
+    "object": "concentrated wash solution",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "predicate": "related to",
+    "object": "add enzyme substrate solution",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme substrate solution",
+    "predicate": "related to",
+    "object": "enzyme labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "double antibody sandwich",
+    "predicate": "relates to",
+    "object": "antibody competition",
+    "inferred": true
+  },
+  {
+    "subject": "coated antibody solid phase",
+    "predicate": "relates to",
+    "object": "antibody competition",
+    "inferred": true
+  },
+  {
+    "subject": "enzyme labeled antibody",
+    "predicate": "relates to",
+    "object": "antibody competition",
+    "inferred": true
+  },
+  {
+    "subject": "coated anti-hbs microplate",
+    "predicate": "related to",
+    "object": "coated antibody solid phase",
+    "inferred": true
+  },
+  {
+    "subject": "concentrated wash solution",
+    "predicate": "relates to",
+    "object": "wash plate",
+    "inferred": true
+  },
+  {
+    "subject": "concentrated wash solution",
+    "predicate": "related to",
+    "object": "add enzyme substrate solution",
+    "inferred": true
+  },
+  {
+    "subject": "eclia",
+    "predicate": "is type of",
+    "object": "clia",
+    "inferred": true
+  },
+  {
+    "subject": "double antibody sandwich",
+    "predicate": "related to",
+    "object": "coated antibody solid phase",
+    "inferred": true
+  },
+  {
+    "subject": "double antibody sandwich",
+    "predicate": "related to",
+    "object": "enzyme labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "negative control",
+    "predicate": "related to",
+    "object": "positive control",
+    "inferred": true
+  },
+  {
+    "subject": "negative control",
+    "predicate": "related to",
+    "object": "quality control material",
+    "inferred": true
+  },
+  {
+    "subject": "positive control",
+    "predicate": "related to",
+    "object": "quality control material",
+    "inferred": true
+  },
+  {
+    "subject": "add enzyme substrate solution",
+    "predicate": "relates to",
+    "object": "enzyme labeled antibody",
+    "inferred": true
+  },
+  {
+    "subject": "coated antibody solid phase",
+    "predicate": "related to",
+    "object": "enzyme labeled antibody",
+    "inferred": true
+  }
+]
