@@ -44,7 +44,8 @@ def process_with_llm(config, input_text, debug=False):
     # Process with LLM
     metadata = {}
     start_time = time.time()
-    response = call_llm(config,model, user_prompt, api_key, system_prompt, max_tokens, temperature, base_url)
+    enable_thinking = config["llm"].get("enable_thinking", True)
+    response = call_llm(config,model, user_prompt, api_key, system_prompt, max_tokens, temperature, base_url,enable_thinking=enable_thinking)
     end_time = time.time() 
     elapsed_time = end_time - start_time
     

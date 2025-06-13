@@ -11,7 +11,7 @@ base_url="http://172.31.11.20:11555/v1/chat/completions"
 max_tokens = 8192
 #max_tokens = 4096
 temperature = 0
-disable_think = false 
+enable_think = true
 
 [chunking]
 chunk_size = 100  # Number of words per chunk
