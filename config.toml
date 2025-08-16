@@ -4,7 +4,7 @@ model="Qwen3-32B"
 #model = "claude-3.5-sonnet-v2"
 #model = "gpt4o"
 #model = "llama3-2-90b-instruct-v1:0"
-api_key = "at-llm"
+api_key = ""
 base_url="http://172.31.11.20:11555/v1/chat/completions"
 #base_url = "http://localhost:11434/v1/chat/completions"
 #base_url = "http://localhost:4000/v1/chat/completions"
@@ -14,15 +14,15 @@ temperature = 0
 enable_think = true
 
 [chunking]
-chunk_size = 100  # Number of words per chunk
-overlap = 20      # Number of words to overlap between chunks
+chunk_size = 200  # Number of words per chunk
+overlap = 40      # Number of words to overlap between chunks
 
 [standardization]
 enabled = true             # Whether to enable entity standardization
 use_llm_for_entities = true  # Whether to use LLM for additional entity resolution
 
 [inference]
-enabled = true             # Whether to enable relationship inference
+enabled = false             # Whether to enable relationship inference
 use_llm_for_inference = true  # Whether to use LLM for relationship inference
 apply_transitive = true    # Whether to apply transitive inference rules
 
